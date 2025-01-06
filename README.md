@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana! for internet folks anamumaq</h1>
-<h3 align="center">Data Scientist with a business background and self-taught learner</h3>
+<h3 align="center">Data Analyst with a business background and self-taught learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamumaq&label=Profile%20views&color=0e75b6&style=flat" alt="anamumaq" /> </p>
 
